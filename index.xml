@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jianchao Li</title>
-    <link>https://jianchao-li.github.io/</link>
-    <description>Recent content on Jianchao Li</description>
+    <title>Bilal Ahmad Bhat</title>
+    <link>https://crediblebilal.github.io/</link>
+    <description>Recent content on Bilal Ahmad Bhat</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
     <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://jianchao-li.github.io/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://crediblebilal.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Publications</title>
-      <link>https://jianchao-li.github.io/publication/</link>
+      <link>https://crediblebilal.github.io/publication/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://jianchao-li.github.io/publication/</guid>
+      <guid>https://crediblebilal.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://jianchao-li.github.io/talk/</link>
+      <link>https://crediblebilal.github.io/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jianchao-li.github.io/talk/</guid>
+      <guid>https://crediblebilal.github.io/talk/</guid>
       <description></description>
     </item>
     
