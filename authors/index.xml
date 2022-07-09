@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Jianchao Li</title>
+    <link>https://jianchao-li.github.io/authors/</link>
+    <description>Recent content in Authors on Jianchao Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://jianchao-li.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Canxiang Yan</title>
+      <link>https://jianchao-li.github.io/authors/canxiang-yan/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jianchao-li.github.io/authors/canxiang-yan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dan Wang</title>
+      <link>https://jianchao-li.github.io/authors/dan-wang/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jianchao-li.github.io/authors/dan-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jianchao Li</title>
+      <link>https://jianchao-li.github.io/authors/jianchao-li/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jianchao-li.github.io/authors/jianchao-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiguang Shan</title>
+      <link>https://jianchao-li.github.io/authors/shiguang-shan/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jianchao-li.github.io/authors/shiguang-shan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jianchao-li.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jianchao-li.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Jianchao Li is a software engineer specialized in deep learning, machine learning and computer vision. He is working at Facebook in Zurich, Switzerland now. Previously, he has been working at Indeed in Tokyo, Japan, ByteDance AI Lab in Beijing, China, and ViSenze in Singapore.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
